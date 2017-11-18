@@ -7,4 +7,4 @@ class Icebreaker{
   }
 }
 
-module.exports = Icebreaker./Question.js
+module.exports = Icebreaker.Question.js
