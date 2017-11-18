@@ -9,4 +9,4 @@ class Icebreaker{
 
 module.exports = Icebreaker
 
-module.exports = Question
+
