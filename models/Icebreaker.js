@@ -7,4 +7,6 @@ class Icebreaker{
   }
 }
 
-module.exports = Icebreaker.Question;
+module.exports = Icebreaker
+
+module.exports = Question.Find()
